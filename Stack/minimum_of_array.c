@@ -1,4 +1,10 @@
 #include<stdio.h>
+/**
+ * Author: Ahsanul Karim Tanim
+ * ID: E221013
+ * Program Task: finding the minimum element from a array 
+ * Github: github.com/tanim494
+*/
 int main()
 {   
     int size;
