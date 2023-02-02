@@ -2,8 +2,8 @@
 /**
  * Author: Ahsanul Karim Tanim
  * ID: E221013
- * Experiment
- * Experiment Task: Write a C program to Find MINIMUM element in Array.
+ * Example-1
+ * Task: Write a C program to Find MINIMUM element in Array.
  * Github: github.com/tanim494
 */
 int main()
