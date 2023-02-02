@@ -2,7 +2,8 @@
 /**
  * Author: Ahsanul Karim Tanim
  * ID: E221013
- * Program Task: finding the minimum element from a array 
+ * Experiment-1
+ * Experiment Task: Write a C program to Find Maximum element in Array.
  * Github: github.com/tanim494
 */
 int main()
