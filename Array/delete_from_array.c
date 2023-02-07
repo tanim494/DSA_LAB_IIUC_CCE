@@ -28,6 +28,7 @@ void main() {
     {
         array[k] = array[k+1];  //deleting the element that user wants
     }
+    size--; //as we're deleteing 1 element, so we're decreasing the array size by 1
     printf("Array after changing: ");
     for (int l = 0; l < size - 1; l++)
     {
